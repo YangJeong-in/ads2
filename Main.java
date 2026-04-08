@@ -1,6 +1,6 @@
 import java.util.*;
 
-// ================= BANK ACCOUNT =================
+
 class BankAccount {
     int accountNumber;
     String username;
